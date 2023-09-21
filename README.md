@@ -5,9 +5,9 @@
 
 - 🌱 I’m currently learning **Bioinformatics**
 
-- 📫 How to reach me **mathys.delattre@sfr.fr**
+- 🤓 I've got some experience in **Computationnal neurosciences, Data Sciences, Machine Learning and Modelisation**
 
-- 🤓 I've got some experience in [Computationnal neurosciences, Data Sciences, Machine Learning and Modelisation](Computationnal neurosciences, Data Sciences, Machine Learning and Modelisation)
+- 📫 How to reach me **mathys.delattre@sfr.fr**
 
 - ⚡ Fun fact **FiNd iT fOoOr MeEH**
 
