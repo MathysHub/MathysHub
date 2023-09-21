@@ -1,5 +1,6 @@
 
-#  ssh mathys@134.157.183.99
+# LE CODE EST DONNE A BUT INFORMATIF UNIQUEMENT IL FAUT LE FAIRE TOURNER SUR UN SERVEUR SPECIAL POUR QU'IL FONCTIONNE
+# ssh ...
 
 import tkinter as tk 
 from tkinter import ttk
