@@ -9,7 +9,6 @@
 
 - 📫 How to reach me **mathys.delattre@sfr.fr**
 
-- ⚡ Fun fact **FiNd iT fOoOr MeEH**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
